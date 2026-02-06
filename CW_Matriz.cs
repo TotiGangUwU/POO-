@@ -41,6 +41,7 @@ namespace Matrices_Completo
                 { 7, 8, 9 }
             };
 
+            // Declaramos los numeros del ejemplo
             int sum = 0;
 
             for (int row = 0; row < 3; row++)
